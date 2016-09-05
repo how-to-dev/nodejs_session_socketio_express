@@ -1,2 +1,5 @@
-# nodejs_session_socketio_express
-Share session data between socket.io and express in node JS.
+# nodesocketiosession
+Simply login/logout with authentication base on express and socketio
+
+
+Please use: npm install to install all dependencies
